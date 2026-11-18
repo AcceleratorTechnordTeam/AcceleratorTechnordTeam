@@ -16,12 +16,6 @@
   <a href="https://acceleratortechnordteam.github.io/TS-C-Doc-generator/"><img src="./assets/card-doc.svg" alt="TS-C Doc Generator" width="48%"/></a>
 </p>
 
-<p align="center">
-  <sub>
-    📁 Code : <a href="https://github.com/AcceleratorTechnordTeam/WEB_UML_Editor">WEB_UML_Editor</a> ·
-    <a href="https://github.com/AcceleratorTechnordTeam/TS-C-Doc-generator">TS-C-Doc-generator</a>
-  </sub>
-</p>
 
 ## 🛠️ Technologies
 
