@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://acceleratortechnordteam.github.io/WEB_UML_Editor/"><img src="./assets/card-uml.svg" alt="WEB UML Editor" width="48%"/></a>
   &nbsp;
-  <a href="https://acceleratortechnordteam.github.io/TS-C-Doc-generator/"><img src="./assets/card-doc.svg" alt="TS-C Doc Generator" width="48%"/></a>
+  <a href="https://acceleratortechnordteam.github.io/WEB_JS_Doc_generator/"><img src="./assets/card-doc.svg" alt="TS-C Doc Generator" width="48%"/></a>
 </p>
 
 
