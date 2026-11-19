@@ -20,7 +20,7 @@
     <rect x="34" y="80" width="24" height="18" rx="3" fill="none" stroke="#fff" stroke-width="3"/>
     <path d="M46 60 V80 M58 51 H78 V80" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
   </g>
-  <text class="t" x="124" y="58">WEB UML Editor</text>
+  <text class="t" x="124" y="58">UML Editor</text>
   <text class="d" x="124" y="82">Diagrammes UML dans le navigateur</text>
   <rect x="124" y="96" width="96" height="26" rx="13" fill="url(#g)"/>
   <text class="b" x="172" y="114" text-anchor="middle">▶  Ouvrir</text>
